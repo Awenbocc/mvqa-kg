@@ -8,7 +8,7 @@ and knowledge about disease such as symptoms or causes.
 # How to show
 1. Run neo4j app
 
-2. Input your own username and password
+2. Input your own database url, username, and password
 
 3. Run all code cells in build_graph.ipynb
 
